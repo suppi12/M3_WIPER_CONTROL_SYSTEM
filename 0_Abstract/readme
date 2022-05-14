@@ -1,0 +1,12 @@
+#WIPER_CONTROL_SYSTEM
+
+Wiper is an device used to clean the front window of the car from rain , snow , washer fluid , water and a debris . Almost all motor vehicles, including autmobiles,
+trucks ,buses ,train locomotives and cabin water craft as well as some aircrafts have one or more of these wipers, which are usually required by law. A wiper
+is made up of a metal arm width one end pivoting and other end having long rubber blade attached to it. Usually an elctric motor is used to drive the wiper arm. 
+The blade is swung back and forth across the window, removing any water particles, any dust , or other obstructions to view. The vehicles after 1969 have the speed 
+changing abiulity with various speeds and often more interrupted settings. 
+Many commercial cars have one or more arms. While most personal autos use two synchronized radial type arms. 
+
+A wind screen washer system is also used on some vehicles to improve and broaden the wiper function to dry icy conditions . Several well placed nozzles spray water
+or antifreeze window washer fluid at the wind screen with this method. When utilized in conjunction with the wiper blades , the mechanism aids in the removal of 
+dirt and dust from the wind screen . In this project I will explain about how wiper works on STM32, an ARM Based Microcontroller
